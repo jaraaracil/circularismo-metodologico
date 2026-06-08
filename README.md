@@ -76,7 +76,7 @@ La metodología se fundamenta en tres pilares conceptuales clave:
 [cite_start]El sujeto es omitido de forma formal, pero **recuperado funcionalmente** mediante dos figuras[cite: 32]:
 
 1. [cite_start]**$\phi-$Morfismo (como operación):** Transforma términos preservando la estructura del conjunto[cite: 33, 34]. [cite_start]Al ser un homomorfismo, opera bajo una determinación objetiva independiente de las intenciones del sujeto[cite: 35].
-2. [cite_start]**Subgrupo normal:** Actúa de manera obligatoria y es invariante bajo conjugación[cite: 37, 38]. [cite_start]Constriñe el sistema sin ser constreñido; estructura las clases del cociente $G/N$ sin ser alterado por los elementos de $G$[cite: 39].
+2. [cite]**Subgrupo normal:** Actúa de manera obligatoria y es invariante bajo conjugación[cite: 37, 38]. [cite_start]Constriñe el sistema sin ser constreñido; estructura las clases del cociente $G/N$ sin ser alterado por los elementos de $G$[cite: 39].
 
 ### Restricciones del Sistema
 [cite_start]La formalización del sistema se restringe explícitamente a aquellas figuras que no admiten expresión algebraica directa[cite: 40]. [cite_start]Elementos como los **fenómenos, dialogismos y autologismos** (según la teoría de la ciencia de Gustavo Bueno) quedan excluidos del sistema por razones que son irreductibles entre sí[cite: 41].
