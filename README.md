@@ -9,7 +9,7 @@
 
 El **Circularismo Metodológico** es una metodología que integra teorías lingüísticas y semióticas clásicas con el rigor del álgebra abstracta. 
 
-A través del principio de **cierre operatorio**, esta metodología asegura que cualquier operación interna genere resultados contenidos dentro del mismo conjunto y evitando salidas indeterminadas.
+A través del **cierre operatorio**, esta metodología asegura que cualquier operación interna genere resultados contenidos dentro del mismo conjunto y evitando salidas indeterminadas.
 
 ---
 
