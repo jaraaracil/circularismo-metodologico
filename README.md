@@ -76,7 +76,7 @@ La omisión de un símbolo propio para el sujeto responde a una deliberada decis
 
 El sujeto es omitido de forma formal, pero **recuperado funcionalmente** mediante dos figuras:
 
-1.**$\phi-$ (como operación):** Transforma términos preservando la estructura del conjunto. Al ser un homomorfismo, opera bajo una determinación objetiva independiente de las intenciones del sujeto.
+1. **$\phi-$ (como operación):** Transforma términos preservando la estructura del conjunto. Al ser un homomorfismo, opera bajo una determinación objetiva independiente de las intenciones del sujeto.
 
 2. **Subgrupo normal:** Actúa de manera obligatoria y es invariante bajo conjugación. Constriñe el sistema sin ser constreñido; estructura las clases del cociente $G/N$ sin ser alterado por los elementos de $G$.
 
