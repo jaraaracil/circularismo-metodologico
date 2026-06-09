@@ -75,7 +75,7 @@ La omisión de un símbolo propio para el sujeto responde a una deliberada decis
 * Introducirlo colapsaría la distinción irreductible entre el **operador** y lo **operado**.
 * No pertenece a ninguna dimensión como término, sino que actúa como la **condición de posibilidad** del sistema completo.
 
-El sujeto es omitido de forma formal, pero **recuperado funcionalmente** mediante dos figuras:
+El sujeto está omitido e implícito, pero **recuperado funcionalmente** mediante dos figuras:
 
 1. **$\phi-$ (como operación):** Transforma términos preservando la estructura del conjunto. Al ser un homomorfismo, opera bajo una determinación objetiva independiente de las intenciones del sujeto.
 
