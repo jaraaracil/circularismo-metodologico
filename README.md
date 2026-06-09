@@ -49,10 +49,10 @@ A continuación se detallan los símbolos y subíndices fundamentales de la meto
 | $k$ | Conector | Subíndice del puente conector; posición del tercer elemento que hace posible el nexo. |
 | $j$ | Consecuente | Subíndice del punto de llegada; resultado tras la transformación o composición. |
 
-> *Nota: Esta nomenclatura es estrictamente específica de la metodología; no se definen otros símbolos algebraicos en esta sección.*
+> *Nota: Esta nomenclatura es estrictamente específica de la metodología; no se definen otros términos en esta sección.*
 
 ### Matriz de Dimensiones y Expresiones
-El sistema formaliza sus relaciones a través de las siguientes dimensiones algebraicas:
+El sistema formaliza sus relaciones a través de las siguientes dimensiones:
 
 * **Dimensión Sintáctica:**
   * Elementos: $(\sigma i,Ok)/(Ok,\sigma j)=(\sigma i,\sigma j)$
