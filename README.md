@@ -72,7 +72,7 @@ La omisión de un símbolo propio para el sujeto responde a una deliberada decis
 
 * El sujeto está **presupuesto en toda operación** (la mediación requiere un agente), pero no aparece como término en la expresión algebraica, al igual que una función matemática no incluye al matemático que la ejecuta.
 * Introducirlo colapsaría la distinción irreductible entre el **operador** y lo **operado**.
-* No pertenece a ninguna dimensión como término, sino que actúa como la **condición de posibilidad** del sistema completo.
+* No pertenece a ninguna dimensión como término, sino que actúa como la **condición de posibilidad** de la metodología completo.
 
 El sujeto está omitido e implícito, pero **recuperado funcionalmente** mediante dos figuras:
 
@@ -81,4 +81,4 @@ El sujeto está omitido e implícito, pero **recuperado funcionalmente** mediant
 2. **Subgrupo normal:** Actúa de manera obligatoria y es invariante bajo conjugación. Constriñe el sistema sin ser constreñido; estructura las clases del cociente $G/N$ sin ser alterado por los elementos de $G$.
 
 ### Restricciones del Sistema
-La formalización del sistema se restringe explícitamente a aquellas figuras que no admiten expresión algebraica directa. Elementos como los **fenómenos, dialogismos y autologismos** (según la teoría de la ciencia de Gustavo Bueno) quedan excluidos del sistema por razones que son irreductibles entre sí.
+Se restringen explícitamente aquellas figuras que no admiten expresión algebraica directa. Elementos como los **fenómenos, dialogismos y autologismos** (según la teoría de la ciencia de Gustavo Bueno) quedan excluidos del sistema por razones que son irreductibles entre sí.
