@@ -30,7 +30,8 @@ Establece que los símbolos lingüísticos se desenvuelven en tres contextos dif
 * **Contexto sintáctico:** Relación puramente formal entre los propios signos.
 
 ### 3. Álgebra Abstracta y Cierre Operatorio
-* Utiliza **estructuras algebraicas** para la organización y codificación de la trama contenido-estructura de la producción humana.
+* Utiliza **estructuras algebraicas** para la organización y codificación de la trama contenido-estructura de la producción humana. Una estructura algebraica es un conjunto no vacío dotado de una o más operaciones (como suma o producto) que cumplen determinadas reglas o axiomas, como la asociatividad, la conmutatividad o la existencia de elementos neutros o inversos, dependiendo del tipo de estructura (grupo, anillo, cuerpo, etc.).
+  
 * El **cierre operatorio** solo se produce cuando se especifica que la operación está bien definida dentro del conjunto, es decir, que no “sales” del conjunto al operar.
 
 ---
