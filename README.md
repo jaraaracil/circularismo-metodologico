@@ -26,8 +26,9 @@ Identifica tres dimensiones esenciales de los signos lingüísticos:
 ### 2. La semiótica conductista (Charles Morris)
 Establece que los símbolos lingüísticos se desenvuelven en tres contextos diferenciados:
 * **Contexto semántico:** Relación entre signos y significados.
-* **Contexto pragmático:** Relación de los signos con los sujetos que los utilizan.
 * **Contexto sintáctico:** Relación puramente formal entre los propios signos.
+* **Contexto pragmático:** Relación de los signos con los sujetos que los utilizan.
+
 
 ### 3. Álgebra Abstracta y Cierre Operatorio
 * Utiliza **estructuras algebraicas** para la organización y codificación de la trama contenido-estructura de la producción humana. Una estructura algebraica es un conjunto no vacío dotado de una o más operaciones (como suma o producto) que cumplen determinadas reglas o axiomas, como la asociatividad, la conmutatividad o la existencia de elementos neutros o inversos, dependiendo del tipo de estructura (grupo, anillo, cuerpo, etc.).
