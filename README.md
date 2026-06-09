@@ -51,8 +51,7 @@ A continuación se detallan los símbolos y subíndices fundamentales de la meto
 
 > *Nota: Esta nomenclatura es estrictamente específica de la metodología; no se definen otros términos en esta sección.*
 
-### Matriz de Dimensiones y Expresiones
-El sistema formaliza sus relaciones a través de las siguientes dimensiones:
+### Dimensiones 
 
 * **Dimensión Sintáctica:**
   * Elementos: $(\sigma i,Ok)/(Ok,\sigma j)=(\sigma i,\sigma j)$
