@@ -7,9 +7,9 @@
 
 ## Descripción General
 
-El **Circularismo Metodológico** es un marco formal de modelado de sistemas que integra teorías lingüísticas y semióticas clásicas con el rigor del álgebra abstracta. 
+El **Circularismo Metodológico** es una metodología que integra teorías lingüísticas y semióticas clásicas con el rigor del álgebra abstracta. 
 
-A través del principio de **cierre operatorio**, esta metodología garantiza la estabilidad, consistencia lógica y predictibilidad de los modelos construidos, asegurando que cualquier operación interna genere resultados contenidos dentro del mismo conjunto y evitando salidas indeterminadas.
+A través del principio de **cierre operatorio**, esta metodología garantiza la estabilidad, consistencia y predictibilidad de los modelos construidos, asegurando que cualquier operación interna genere resultados contenidos dentro del mismo conjunto y evitando salidas indeterminadas.
 
 ---
 
@@ -76,7 +76,8 @@ La omisión de un símbolo propio para el sujeto responde a una deliberada decis
 
 El sujeto es omitido de forma formal, pero **recuperado funcionalmente** mediante dos figuras:
 
-1.**$\phi-$Morfismo (como operación):** Transforma términos preservando la estructura del conjunto. Al ser un homomorfismo, opera bajo una determinación objetiva independiente de las intenciones del sujeto.
+1.**$\phi-$ (como operación):** Transforma términos preservando la estructura del conjunto. Al ser un homomorfismo, opera bajo una determinación objetiva independiente de las intenciones del sujeto.
+
 2. **Subgrupo normal:** Actúa de manera obligatoria y es invariante bajo conjugación. Constriñe el sistema sin ser constreñido; estructura las clases del cociente $G/N$ sin ser alterado por los elementos de $G$.
 
 ### Restricciones del Sistema
