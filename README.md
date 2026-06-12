@@ -2,7 +2,6 @@
 
 > **Autor:** José Aracil Ramírez  
 > **Fecha:** Sábado, 7 de junio de 2026
----
 
 ![](img/cm.png)
 
