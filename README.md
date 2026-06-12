@@ -10,7 +10,7 @@
 
 ## Descripción General
 
-El **Circularismo Metodológico** es una metodología de síntesis creativa para construir o reconstruir tecnologías a partir de la reconfiguración significativa de sus dimensiones formales y materiales, entendidas como mutuamente constitutivas. La metodología tiene como bases conceptuales teorías lingüísticas previas y cuenta con rigor formal del álgebra abstracta, combinando perspectivas sobre la estructura y generación del significado con herramientas matemáticas para la modelización de relaciones y transformaciones complejas.
+El **Circularismo Metodológico** es una metodología de síntesis creativa para construir o reconstruir artes, diseños y tecnologías a partir de la reconfiguración significativa de sus dimensiones formales y materiales, entendidas como mutuamente constitutivas. La metodología tiene como bases conceptuales teorías lingüísticas previas y cuenta con rigor formal del álgebra abstracta, combinando perspectivas sobre la estructura y generación del significado con herramientas matemáticas para la modelización de relaciones y transformaciones complejas.
 
 La incorporación del **cierre operatorio** asegura que las transformaciones efectuadas sobre los elementos del conjunto permanezcan definidas dentro de sus propios límites, de modo que cada operación genere resultados pertenecientes al mismo dominio y excluya la producción de salidas indeterminadas o externas al sistema.
 
