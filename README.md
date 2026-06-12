@@ -4,7 +4,7 @@
 > **Fecha:** Sábado, 7 de junio de 2026
 ---
 
-![](main/CIRCULARISMO_METODOLÓGICO.png)
+![](main/cm.png)
 
 ---
 
