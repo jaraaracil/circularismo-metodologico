@@ -1,7 +1,10 @@
 # Circularismo Metodológico
 
 > **Autor:** José Aracil Ramírez  
-> **Fecha:** Sábado, 7 de junio de 2026 
+> **Fecha:** Sábado, 7 de junio de 2026
+---
+
+![](main/CIRCULARISMO_METODOLÓGICO.png)
 
 ---
 
